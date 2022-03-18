@@ -47,7 +47,7 @@ $buttons = array(
     'log_in' => array('file' => 'log_in', 'text' => 'Log in', 'menu' => array(1,0))
 );
 $pageTitle = array(
-    'cim' => 'MONSTER',
+    'cim' => 'Barbershop',
 );
 
 $header = array(
